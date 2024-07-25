@@ -1,5 +1,5 @@
 {
-  "name": "base256",
+  "name": "base256_lib",
   "version": "1.0.0",
   "description": "base64 encoder/decoder",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Experimental-Projects-NAS/base256.git"
+    "url": "git+https://github.com/Experimental-Projects-NAS/base256_lib.git"
   },
   "type": "module",
   "keywords": [
@@ -17,7 +17,7 @@
   "author": "son",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Experimental-Projects-NAS/base256/issues"
+    "url": "https://github.com/Experimental-Projects-NAS/base256_lib/issues"
   },
-  "homepage": "https://github.com/Experimental-Projects-NAS/base256#readme"
+  "homepage": "https://github.com/Experimental-Projects-NAS/base256_lib#readme"
 }
